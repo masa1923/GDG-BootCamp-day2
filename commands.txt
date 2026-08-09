@@ -1,0 +1,3 @@
+pwd- prints to curren directory
+ls - lists files and directories 
+cd -  changes the current directory
